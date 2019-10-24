@@ -26,3 +26,4 @@ workflows:
           vuln-thresh: critical
           comp-thresh: ''
           only-fixed: true
+
